@@ -19,7 +19,7 @@ html {
 body {
   font-family: 'Poppins', sans-serif;
   background-color: #05e8ba;
-background-image: linear-gradient(315deg, #05e8ba 0%, #087ee1 74%);
+  background-image: linear-gradient(315deg, #05e8ba 0%, #087ee1 74%) no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
