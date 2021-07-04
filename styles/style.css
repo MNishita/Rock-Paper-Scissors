@@ -82,7 +82,7 @@ header p {
     background-color: #05e8ba;
 }
 
-.hands button:hover:active {
+.hands button:active {
     transform: scale(1.1);
 }
 
